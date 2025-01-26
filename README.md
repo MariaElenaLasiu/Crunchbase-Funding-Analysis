@@ -12,9 +12,13 @@ Data was taken from Crunchbase's public investments data (tutorial.crunchbase_in
 The project addresses the following questions:
 
 **1. Which industries in Italy raised the most money?**
+
 **2. How has startup funding in Italy changed over time?**
+
 **3. Which Italian companies secured the most funding?**
+
 **4. Who are the top investors funding Italian startups?**
+
 **5. How does Italy compare to other European countries?**
   
 
@@ -54,10 +58,10 @@ Other notable investors include AIM Italia, Innogest, and Edmond de Rothschild V
 **5. How does Italy compare to other European countries?**
 Italy lags far behind its European peers in total startup funding, securing just €9 billion—the lowest among major economies.
 
-    - Spain (€37.8B) – 4x more than Italy
-    - France (€119.2B) – 13x more
-    - Germany (€158.7B) – 18x more
-    - United Kingdom (€351.6B) – 39x more
+- Spain (€37.8B) – 4x more than Italy
+- France (€119.2B) – 13x more
+- Germany (€158.7B) – 18x more
+- United Kingdom (€351.6B) – 39x more
 
 This gap highlights Italy’s struggles in attracting venture capital and fostering a thriving startup ecosystem, putting it at a competitive disadvantage.
 
@@ -66,17 +70,12 @@ This gap highlights Italy’s struggles in attracting venture capital and foster
 
 The analysis was conducted using the following key fields:
 
-company_name → Startup name
-
-company_category_code → Industry sector
-
-company_country_code → Country of the company
-
-raised_amount_usd → Funding received (USD)
-
-funded_at → Date of investment
-
-investor_name → Name of the investor
+- company_name → Startup name
+- company_category_code → Industry sector
+- company_country_code → Country of the company
+- raised_amount_usd → Funding received (USD)
+- funded_at → Date of investment
+- investor_name → Name of the investor
 
 
 ## Conclusion
