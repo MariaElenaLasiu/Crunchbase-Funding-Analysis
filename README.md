@@ -11,11 +11,11 @@ Data was taken from Crunchbase's public investments data (tutorial.crunchbase_in
 
 The project addresses the following questions:
 
-* 1. Which industries in Italy raised the most money?
-* 2. How has startup funding in Italy changed over time?
-* 3. Which Italian companies secured the most funding?
-* 4. Who are the top investors funding Italian startups?
-* 5. How does Italy compare to other European countries?
+1. Which industries in Italy raised the most money?
+2. How has startup funding in Italy changed over time?
+3. Which Italian companies secured the most funding?
+4. Who are the top investors funding Italian startups?
+5. How does Italy compare to other European countries?
   
 
 ## Skills
